@@ -11,7 +11,7 @@
     "start": "concurrently --kill-others \"yarn server1\" \"yarn server2\" \"yarn serverm\""
   },
   "author": "Kaichiro Fukuda",
-  "license": "ISC",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "axios": "^0.19.0",

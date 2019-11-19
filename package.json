@@ -30,5 +30,6 @@
     "concurretly",
     "nodemon"
   ],
-  "description": ""
+  "description": "",
+  "repository": "https://github.com/kaichiro/telefonando.git"
 }
